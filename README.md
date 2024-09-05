@@ -4,9 +4,16 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=SUSE&weight=900&size=31&duration=1500&pause=1000&color=9756F7&center=true&vCenter=true&width=435&lines=Hi+my+name+is+Andrew!+;Welcome+to+my+profile!" alt="Typing SVG" /></a>
 </h1>
 
+<div align="center">
+ <a href="http://www.google.com" target="_blank">
+  <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
+ </a>
+</div>
 
-- 👀 I’m interested in Web Developing and any other Computer Science activites
-- 🌱 I’m currently learning HTMl, CSS, Javascript, JQuery
+<div align='center'>
+ <p>👀 I’m interested in Web Developing and any other Computer Science activites</p>
+ <p>🌱 I’m currently learning HTMl, CSS, Javascript, JQuery</p>
+</div>
 
 
 <div align='center'>
@@ -24,6 +31,8 @@
   <img src='https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white'>
   <img src='https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white'>
   <img src='https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white'>
+  <img src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white'>
+
 </div>
 
 <!---
