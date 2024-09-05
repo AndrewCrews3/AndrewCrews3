@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
- <a href="http://www.google.com" target="_blank">
+ <a href="[http://www.google.com](https://www.linkedin.com/in/andrew-crews-23ba92210/)" target="_blank">
   <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
  </a>
 </div>
