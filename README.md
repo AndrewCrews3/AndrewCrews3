@@ -10,11 +10,15 @@
  </a>
 </div>
 
+<br>
+
 <div align='center'>
  <p>👀 I’m interested in Web Developing and any other Computer Science activites</p>
  <p>🌱 I’m currently learning HTMl, CSS, Javascript, JQuery</p>
 </div>
 
+<br>
+<br>
 
 <div align='center'>
   <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>
