@@ -14,7 +14,7 @@
 
 <div align='center'>
  <p>👀 I’m interested in Web Developing and any other Computer Science activites</p>
- <p>🌱 I’m currently learning HTMl, CSS, Javascript, JQuery</p>
+ <p>🌱 I’m currently learning HTMl, CSS, Javascript, React.js, and JQuery</p>
 </div>
 
 <br>
